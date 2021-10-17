@@ -16,7 +16,7 @@ Active_Learning_in_R
 ```
 
 # Public Post
-I also gave a post in Medium if you are interested to check [here](https://medium.com/@Andy1Wang/active-learning-an-exploratory-study-of-its-application-in-statistics-and-r-65713ccdad16)
+I also published this project in Medium if you are interested to look at [here](https://medium.com/@Andy1Wang/active-learning-an-exploratory-study-of-its-application-in-statistics-and-r-65713ccdad16)
 
 # Experimental Settings
 ## Active Learning Querying Strategies
